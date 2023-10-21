@@ -1,14 +1,9 @@
 # Programming PyTorch for Deep Learning
-A book by Ian Pointer
+A book by Ian Pointer 
 
+<img src="https://github.com/rsanimesh/Programming-PyTorch-for-Deep-Learning/blob/181528534d66d636fb4bc3701cacffa16fb60fa1/book-cover-page.jpg" height="394px" width="300px">  
 
 This Repository contain codes from the book Programming PyTorch for Deep Learning
-
-<br>
-<p align="center">
-  <img src="" height="394px" width="300px">  
-</p>
-<br>
 
 # Notebooks
 
